@@ -1,3 +1,0 @@
-*.go linguist-language=Go
-*.c linguist-language=C
-*.h linguist-language=C
